@@ -1,0 +1,15 @@
+C:\Users\emmanuel.koyapolo_am\Documents\Perso\formation.git\HangHimGame\bin\Debug\net8.0\HangHimGame.exe
+C:\Users\emmanuel.koyapolo_am\Documents\Perso\formation.git\HangHimGame\bin\Debug\net8.0\HangHimGame.deps.json
+C:\Users\emmanuel.koyapolo_am\Documents\Perso\formation.git\HangHimGame\bin\Debug\net8.0\HangHimGame.runtimeconfig.json
+C:\Users\emmanuel.koyapolo_am\Documents\Perso\formation.git\HangHimGame\bin\Debug\net8.0\HangHimGame.dll
+C:\Users\emmanuel.koyapolo_am\Documents\Perso\formation.git\HangHimGame\bin\Debug\net8.0\HangHimGame.pdb
+C:\Users\emmanuel.koyapolo_am\Documents\Perso\formation.git\HangHimGame\obj\Debug\net8.0\HangHimGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emmanuel.koyapolo_am\Documents\Perso\formation.git\HangHimGame\obj\Debug\net8.0\HangHimGame.AssemblyInfoInputs.cache
+C:\Users\emmanuel.koyapolo_am\Documents\Perso\formation.git\HangHimGame\obj\Debug\net8.0\HangHimGame.AssemblyInfo.cs
+C:\Users\emmanuel.koyapolo_am\Documents\Perso\formation.git\HangHimGame\obj\Debug\net8.0\HangHimGame.csproj.CoreCompileInputs.cache
+C:\Users\emmanuel.koyapolo_am\Documents\Perso\formation.git\HangHimGame\obj\Debug\net8.0\HangHimGame.sourcelink.json
+C:\Users\emmanuel.koyapolo_am\Documents\Perso\formation.git\HangHimGame\obj\Debug\net8.0\HangHimGame.dll
+C:\Users\emmanuel.koyapolo_am\Documents\Perso\formation.git\HangHimGame\obj\Debug\net8.0\refint\HangHimGame.dll
+C:\Users\emmanuel.koyapolo_am\Documents\Perso\formation.git\HangHimGame\obj\Debug\net8.0\HangHimGame.pdb
+C:\Users\emmanuel.koyapolo_am\Documents\Perso\formation.git\HangHimGame\obj\Debug\net8.0\HangHimGame.genruntimeconfig.cache
+C:\Users\emmanuel.koyapolo_am\Documents\Perso\formation.git\HangHimGame\obj\Debug\net8.0\ref\HangHimGame.dll
